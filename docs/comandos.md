@@ -21,6 +21,7 @@
 - `git branch <rama>`: crea nueva rama.
 - `git checkout <rama>`: cambia a rama.
 - `git merge <rama>`: integra cambios de otra rama.
+sdjc
 
 ## Sección E - Corrección de errores
 
